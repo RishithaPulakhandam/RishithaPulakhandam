@@ -4,7 +4,6 @@
 - 🌱 I’m a bioinformatics professional with a Master’s degree in Bioinformatics from Johns Hopkins University, currently working on a Johnson & Johnson project focused on AI-enabled pharmacovigilance and translational safety workflows. My interests include computational biology, multi-omics data analysis, and machine learning applications in biomedical research. 
 - 💞️ I’m looking to collaborate on projects related to cancer research, miRNA analysis, and predictive modeling in healthcare.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishitha-pulakhandam-183b59219)
-- 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I’m multilingual—I know four languages.
 
 ## 🌐 Socials:
@@ -22,6 +21,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RishithaPulakhandam&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
