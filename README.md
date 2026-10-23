@@ -19,5 +19,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RishithaPulakhandam&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishithaPulakhandam&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=RishithaPulakhandam&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
